@@ -8,6 +8,7 @@ pkgbase = mingw-w64-mygui
 	makedepends = mingw-w64-cmake
 	makedepends = mingw-w64-gcc
 	makedepends = mingw-w64-pkg-config
+	makedepends = mingw-w64-freetype2
 	makedepends = doxygen
 	makedepends = graphviz
 	makedepends = ttf-dejavu
